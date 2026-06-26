@@ -3,14 +3,7 @@ Making cheaper versions of stream decks!
 
 (Currently only works with pico explorer sets)
 
-This is my first real project, so give me a bit before I get my code uploaded here. 😭
+I'm working on making a downloadable package soon!
+Just give me some time here as it's a lot of work.
 
-## Star History
-
-<a href="https://www.star-history.com/?repos=Stanfoc%2Fpi-deck&type=date&legend=top-left">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=Stanfoc/pi-deck&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=Stanfoc/pi-deck&type=date&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=Stanfoc/pi-deck&type=date&legend=top-left" />
- </picture>
-</a>
+Updated 6-26-2026.
